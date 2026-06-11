@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat-square&label=Profile+Views" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=vijay-sonavane9&color=0e75b6&style=flat-square&label=Profile+Views" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/vijay-sonavane9?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
 </p>
 
 ---
