@@ -77,10 +77,10 @@
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Used |
 |---|---|---|
-| [AI Agent Pipeline](#) | Multi-agent system with memory & tool use | LangGraph, Python, Docker |
-| [ML Model Deployment](#) | End-to-end classification pipeline | Scikit-learn, Python, SQL |
-| [Sales Analytics Dashboard](#) | Interactive business KPI dashboard | Power BI, SQL, Python |
-| [RAG Chatbot](#) | Document Q&A using LLM + retrieval | LangChain, OpenAI, Python |
+| [BLOG WRITTING AI Agent Pipeline](https://github.com/vijay-sonavane9/smartblog-ai-agent) | Multi-agent system with memory & tool use | LangGraph, Python, Docker |
+| [ML Model Deployment](https://github.com/vijay-sonavane9/Python-Projects) | End-to-end classification pipeline | Scikit-learn, Python, SQL |
+| [Sales Analytics Dashboard](https://github.com/vijay-sonavane9/ai-powered-ecommerce) | Interactive business KPI dashboard | Power BI, SQL, Python |
+| [MEDICAL RAG Chatbot](https://github.com/vijay-sonavane9/Medical_Rag_chatBot) | Document Q&A using LLM + retrieval | LangChain, OpenAI, Python |
 
 > 🔗 Replace `#` with actual repo links after pushing projects
 
