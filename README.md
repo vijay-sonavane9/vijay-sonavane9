@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+
+<h1 align="center">Hi 👋, I'm Vijay</h1>
 <h3 align="center">Data Science & AI Engineer | Building Intelligent Systems with LangGraph & ML</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech [Your Branch]** — [2025/2026] Graduate
+- 🎓 **B.E. Computer Engineeing** — 2025 Graduate
 - 🤖 Currently building **AI Agents & Multi-Agent Systems** using LangGraph
 - 🌱 Exploring **LLMOps, RAG Pipelines & Production ML Systems**
 - 💼 Open to **Data Science / ML / AI Engineer** roles
