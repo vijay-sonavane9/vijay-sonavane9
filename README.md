@@ -70,7 +70,6 @@
 | [Sales Analytics Dashboard](https://github.com/vijay-sonavane9/ai-powered-ecommerce) | Interactive business KPI dashboard | Power BI, SQL, Python |
 | [MEDICAL RAG Chatbot](https://github.com/vijay-sonavane9/Medical_Rag_chatBot) | Document Q&A using LLM + retrieval | LangChain, OpenAI, Python |
 
-> 🔗 Replace `#` with actual repo links after pushing projects
 
 ---
 
