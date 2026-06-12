@@ -19,7 +19,7 @@
 - 🎓 **B.E. Computer Engineeing** — 2025 Graduate
 - 🤖 Currently building **AI Agents & Multi-Agent Systems** using LangGraph
 - 🌱 Exploring **LLMOps, RAG Pipelines & Production ML Systems**
-- 💼 Open to **Data Science / ML / AI Engineer** roles
+- 💼 Open to **Data Science / ML / AI Engineer / Software Engineer** roles
 - 📍 Based in **Pune, India**
 - ⚡ Fun fact: I turn raw data into decisions and coffee into code ☕
 
