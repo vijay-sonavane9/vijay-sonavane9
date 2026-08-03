@@ -3,7 +3,6 @@
 <h3 align="center">Data Science & AI Engineer | Building Intelligent Systems with LangGraph & ML</h3>
 
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Data+Science+%7C+AI+Agents+%7C+ML+Engineer;LangGraph+%7C+RAG+%7C+LLM+Pipelines;Docker+%7C+Python+%7C+SQL;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
